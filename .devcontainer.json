@@ -1,5 +1,5 @@
 {
-    "image": "mcr.microsoft.com/vscode/devcontainers/universal:focal",
+    "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:0-18",
     "remoteUser": "node",
     "customizations": {
         "vscode": {
